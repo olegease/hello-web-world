@@ -1,0 +1,5 @@
+# ignore dot directories
+.*/
+# ignore temporary folders and files
+temp/
+temp.*
